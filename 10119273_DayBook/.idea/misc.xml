@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/CODING/daybook2/10119273_DayBook/app/src/main/res/drawable/btn_bg.xml" value="0.111" />
+        <entry key="..\:/CODING/daybook2/10119273_DayBook/app/src/main/res/drawable/cus_bg.xml" value="0.111" />
+        <entry key="..\:/CODING/daybook2/10119273_DayBook/app/src/main/res/drawable/unselected.xml" value="0.111" />
+        <entry key="..\:/CODING/daybook2/10119273_DayBook/app/src/main/res/layout/activity_main.xml" value="0.22447916666666667" />
+        <entry key="..\:/CODING/daybook2/10119273_DayBook/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/CODING/daybook2/10119273_DayBook/app/src/main/res/layout/fragment_info.xml" value="0.25" />
+        <entry key="..\:/CODING/daybook2/10119273_DayBook/app/src/main/res/layout/fragment_item.xml" value="0.1" />
+        <entry key="..\:/CODING/daybook2/10119273_DayBook/app/src/main/res/layout/fragment_notes.xml" value="0.25" />
+        <entry key="..\:/CODING/daybook2/10119273_DayBook/app/src/main/res/layout/slide_screen.xml" value="0.12409420289855072" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
